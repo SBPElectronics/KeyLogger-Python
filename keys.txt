@@ -1,0 +1,317 @@
+s (13:32:52) in test_ownership - Test here only - Visual Studio Code
+s (13:32:53) in test_ownership - Test here only - Visual Studio Code
+s (13:32:53) in test_ownership - Test here only - Visual Studio Code
+s (13:32:53) in test_ownership - Test here only - Visual Studio Code
+s (13:32:54) in test_ownership - Test here only - Visual Studio Code
+d (13:32:54) in test_ownership - Test here only - Visual Studio Code
+w (13:32:54) in test_ownership - Test here only - Visual Studio Code
+a (13:32:54) in test_ownership - Test here only - Visual Studio Code
+s (13:32:54) in test_ownership - Test here only - Visual Studio Code
+d (13:32:55) in test_ownership - Test here only - Visual Studio Code
+w (13:32:55) in test_ownership - Test here only - Visual Studio Code
+a (13:32:55) in test_ownership - Test here only - Visual Studio Code
+s (13:32:55) in test_ownership - Test here only - Visual Studio Code
+d (13:32:55) in test_ownership - Test here only - Visual Studio Code
+w (13:32:55) in test_ownership - Test here only - Visual Studio Code
+a (13:32:55) in test_ownership - Test here only - Visual Studio Code
+d (13:32:56) in test_ownership - Test here only - Visual Studio Code
+s (13:32:56) in test_ownership - Test here only - Visual Studio Code
+w (13:32:56) in test_ownership - Test here only - Visual Studio Code
+Key.alt_l (13:33:16) in test_ownership - Test here only - Visual Studio Code
+Key.tab (13:33:16) in test_ownership - Test here only - Visual Studio Code
+c (13:33:33) in Missing Python Modules Fix - Google Chrome
+a (13:33:33) in Missing Python Modules Fix - Google Chrome
+n (13:33:33) in Missing Python Modules Fix - Google Chrome
+Key.space (13:33:33) in Missing Python Modules Fix - Google Chrome
+u (13:33:33) in Missing Python Modules Fix - Google Chrome
+Key.space (13:33:33) in Missing Python Modules Fix - Google Chrome
+d (13:33:33) in Missing Python Modules Fix - Google Chrome
+o (13:33:34) in Missing Python Modules Fix - Google Chrome
+Key.space (13:33:34) in Missing Python Modules Fix - Google Chrome
+o (13:33:34) in Missing Python Modules Fix - Google Chrome
+u (13:33:34) in Missing Python Modules Fix - Google Chrome
+t (13:33:34) in Missing Python Modules Fix - Google Chrome
+l (13:33:34) in Missing Python Modules Fix - Google Chrome
+o (13:33:34) in Missing Python Modules Fix - Google Chrome
+o (13:33:35) in Missing Python Modules Fix - Google Chrome
+k (13:33:35) in Missing Python Modules Fix - Google Chrome
+Key.space (13:33:36) in Missing Python Modules Fix - Google Chrome
+a (13:33:36) in Missing Python Modules Fix - Google Chrome
+n (13:33:36) in Missing Python Modules Fix - Google Chrome
+d (13:33:36) in Missing Python Modules Fix - Google Chrome
+Key.space (13:33:36) in Missing Python Modules Fix - Google Chrome
+l (13:33:37) in Missing Python Modules Fix - Google Chrome
+i (13:33:37) in Missing Python Modules Fix - Google Chrome
+k (13:33:37) in Missing Python Modules Fix - Google Chrome
+e (13:33:38) in Missing Python Modules Fix - Google Chrome
+Key.space (13:33:38) in Missing Python Modules Fix - Google Chrome
+j (13:33:39) in Missing Python Modules Fix - Google Chrome
+u (13:33:40) in Missing Python Modules Fix - Google Chrome
+s (13:33:40) in Missing Python Modules Fix - Google Chrome
+t (13:33:40) in Missing Python Modules Fix - Google Chrome
+Key.space (13:33:40) in Missing Python Modules Fix - Google Chrome
+g (13:33:40) in Missing Python Modules Fix - Google Chrome
+i (13:33:40) in Missing Python Modules Fix - Google Chrome
+e (13:33:40) in Missing Python Modules Fix - Google Chrome
+Key.space (13:33:40) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:33:41) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:33:41) in Missing Python Modules Fix - Google Chrome
+v (13:33:41) in Missing Python Modules Fix - Google Chrome
+e (13:33:41) in Missing Python Modules Fix - Google Chrome
+Key.space (13:33:41) in Missing Python Modules Fix - Google Chrome
+m (13:33:41) in Missing Python Modules Fix - Google Chrome
+e (13:33:41) in Missing Python Modules Fix - Google Chrome
+Key.space (13:33:41) in Missing Python Modules Fix - Google Chrome
+t (13:33:41) in Missing Python Modules Fix - Google Chrome
+h (13:33:41) in Missing Python Modules Fix - Google Chrome
+e (13:33:41) in Missing Python Modules Fix - Google Chrome
+Key.space (13:33:42) in Missing Python Modules Fix - Google Chrome
+e (13:33:42) in Missing Python Modules Fix - Google Chrome
+m (13:33:42) in Missing Python Modules Fix - Google Chrome
+a (13:33:42) in Missing Python Modules Fix - Google Chrome
+i (13:33:42) in Missing Python Modules Fix - Google Chrome
+l (13:33:42) in Missing Python Modules Fix - Google Chrome
+Key.space (13:33:42) in Missing Python Modules Fix - Google Chrome
+s (13:33:43) in Missing Python Modules Fix - Google Chrome
+e (13:33:43) in Missing Python Modules Fix - Google Chrome
+n (13:33:43) in Missing Python Modules Fix - Google Chrome
+i (13:33:43) in Missing Python Modules Fix - Google Chrome
+d (13:33:43) in Missing Python Modules Fix - Google Chrome
+n (13:33:43) in Missing Python Modules Fix - Google Chrome
+g (13:33:43) in Missing Python Modules Fix - Google Chrome
+Key.space (13:33:43) in Missing Python Modules Fix - Google Chrome
+p (13:33:44) in Missing Python Modules Fix - Google Chrome
+a (13:33:44) in Missing Python Modules Fix - Google Chrome
+r (13:33:44) in Missing Python Modules Fix - Google Chrome
+t (13:33:44) in Missing Python Modules Fix - Google Chrome
+Key.space (13:33:44) in Missing Python Modules Fix - Google Chrome
+a (13:33:44) in Missing Python Modules Fix - Google Chrome
+n (13:33:44) in Missing Python Modules Fix - Google Chrome
+d (13:33:44) in Missing Python Modules Fix - Google Chrome
+Key.space (13:33:45) in Missing Python Modules Fix - Google Chrome
+i (13:33:45) in Missing Python Modules Fix - Google Chrome
+l (13:33:45) in Missing Python Modules Fix - Google Chrome
+l (13:33:45) in Missing Python Modules Fix - Google Chrome
+Key.space (13:33:45) in Missing Python Modules Fix - Google Chrome
+a (13:33:45) in Missing Python Modules Fix - Google Chrome
+d (13:33:46) in Missing Python Modules Fix - Google Chrome
+d (13:33:46) in Missing Python Modules Fix - Google Chrome
+Key.space (13:33:46) in Missing Python Modules Fix - Google Chrome
+t (13:33:46) in Missing Python Modules Fix - Google Chrome
+h (13:33:46) in Missing Python Modules Fix - Google Chrome
+e (13:33:46) in Missing Python Modules Fix - Google Chrome
+Key.space (13:33:46) in Missing Python Modules Fix - Google Chrome
+r (13:33:47) in Missing Python Modules Fix - Google Chrome
+e (13:33:47) in Missing Python Modules Fix - Google Chrome
+s (13:33:47) in Missing Python Modules Fix - Google Chrome
+t (13:33:47) in Missing Python Modules Fix - Google Chrome
+Key.shift_r (13:33:47) in Missing Python Modules Fix - Google Chrome
+? (13:33:47) in Missing Python Modules Fix - Google Chrome
+Key.enter (13:33:49) in Missing Python Modules Fix - Google Chrome
+Key.alt_l (13:33:56) in Missing Python Modules Fix - Google Chrome
+Key.tab (13:33:56) in Missing Python Modules Fix - Google Chrome
+Key.ctrl_l (13:33:56) in test_ownership - Test here only - Visual Studio Code
+ (13:33:57) in test_ownership - Test here only - Visual Studio Code
+ (13:33:57) in test_ownership - Test here only - Visual Studio Code
+Key.ctrl_l (13:33:58) in ● test_ownership - Test here only - Visual Studio Code
+ (13:33:58) in ● test_ownership - Test here only - Visual Studio Code
+ (13:33:58) in ● test_ownership - Test here only - Visual Studio Code
+ (13:33:59) in ● test_ownership - Test here only - Visual Studio Code
+Key.alt_l (13:34:16) in screenshot_20260317_133408.png - Test here only - Visual Studio Code
+Key.tab (13:34:16) in screenshot_20260317_133408.png - Test here only - Visual Studio Code
+y (13:34:21) in Missing Python Modules Fix - Google Chrome
+e (13:34:21) in Missing Python Modules Fix - Google Chrome
+s (13:34:21) in Missing Python Modules Fix - Google Chrome
+s (13:34:21) in Missing Python Modules Fix - Google Chrome
+s (13:34:21) in Missing Python Modules Fix - Google Chrome
+Key.space (13:34:21) in Missing Python Modules Fix - Google Chrome
+s (13:34:22) in Missing Python Modules Fix - Google Chrome
+s (13:34:22) in Missing Python Modules Fix - Google Chrome
+i (13:34:22) in Missing Python Modules Fix - Google Chrome
+r (13:34:22) in Missing Python Modules Fix - Google Chrome
+Key.space (13:34:28) in Missing Python Modules Fix - Google Chrome
+f (13:34:28) in Missing Python Modules Fix - Google Chrome
+u (13:34:28) in Missing Python Modules Fix - Google Chrome
+l (13:34:28) in Missing Python Modules Fix - Google Chrome
+l (13:34:28) in Missing Python Modules Fix - Google Chrome
+Key.space (13:34:28) in Missing Python Modules Fix - Google Chrome
+c (13:34:29) in Missing Python Modules Fix - Google Chrome
+o (13:34:29) in Missing Python Modules Fix - Google Chrome
+d (13:34:29) in Missing Python Modules Fix - Google Chrome
+e (13:34:29) in Missing Python Modules Fix - Google Chrome
+Key.space (13:34:29) in Missing Python Modules Fix - Google Chrome
+p (13:34:29) in Missing Python Modules Fix - Google Chrome
+l (13:34:29) in Missing Python Modules Fix - Google Chrome
+s (13:34:29) in Missing Python Modules Fix - Google Chrome
+Key.enter (13:34:29) in Missing Python Modules Fix - Google Chrome
+Key.alt_l (13:34:30) in Missing Python Modules Fix - Google Chrome
+Key.tab (13:34:30) in Missing Python Modules Fix - Google Chrome
+Key.ctrl_l (13:34:50) in test_ownership - Test here only - Visual Studio Code
+ (13:34:50) in test_ownership - Test here only - Visual Studio Code
+Key.enter (13:34:50) in test_ownership - Test here only - Visual Studio Code
+Key.enter (13:34:51) in test_ownership - Test here only - Visual Studio Code
+2 (13:34:57) in test_ownership - Test here only - Visual Studio Code
+Key.backspace (13:34:58) in ● test_ownership - Test here only - Visual Studio Code
+0 (13:34:59) in ● test_ownership - Test here only - Visual Studio Code
+Key.backspace (13:35:00) in ● test_ownership - Test here only - Visual Studio Code
+Key.backspace (13:35:03) in ● test_ownership - Test here only - Visual Studio Code
+3 (13:35:03) in ● test_ownership - Test here only - Visual Studio Code
+0 (13:35:03) in ● test_ownership - Test here only - Visual Studio Code
+Key.space (13:35:04) in ● test_ownership - Test here only - Visual Studio Code
+Key.ctrl_l (13:35:04) in ● test_ownership - Test here only - Visual Studio Code
+Key.delete (13:35:04) in ● test_ownership - Test here only - Visual Studio Code
+s (13:35:05) in ● test_ownership - Test here only - Visual Studio Code
+e (13:35:05) in ● test_ownership - Test here only - Visual Studio Code
+c (13:35:05) in ● test_ownership - Test here only - Visual Studio Code
+s (13:35:05) in ● test_ownership - Test here only - Visual Studio Code
+Key.tab (13:35:08) in ● test_ownership - Test here only - Visual Studio Code
+Key.alt_l (13:35:16) in test_ownership - Test here only - Visual Studio Code
+Key.tab (13:35:16) in test_ownership - Test here only - Visual Studio Code
+Key.alt_l (13:35:16) in Missing Python Modules Fix - Google Chrome
+Key.tab (13:35:16) in Missing Python Modules Fix - Google Chrome
+Key.alt_l (13:35:17) in test_ownership - Test here only - Visual Studio Code
+Key.tab (13:35:17) in test_ownership - Test here only - Visual Studio Code
+t (13:35:40) in Missing Python Modules Fix - Google Chrome
+h (13:35:40) in Missing Python Modules Fix - Google Chrome
+e (13:35:40) in Missing Python Modules Fix - Google Chrome
+Key.space (13:35:40) in Missing Python Modules Fix - Google Chrome
+c (13:35:41) in Missing Python Modules Fix - Google Chrome
+o (13:35:41) in Missing Python Modules Fix - Google Chrome
+e (13:35:41) in Missing Python Modules Fix - Google Chrome
+Key.space (13:35:41) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:35:41) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:35:41) in Missing Python Modules Fix - Google Chrome
+d (13:35:41) in Missing Python Modules Fix - Google Chrome
+e (13:35:41) in Missing Python Modules Fix - Google Chrome
+Key.space (13:35:42) in Missing Python Modules Fix - Google Chrome
+m (13:35:42) in Missing Python Modules Fix - Google Chrome
+e (13:35:42) in Missing Python Modules Fix - Google Chrome
+s (13:35:42) in Missing Python Modules Fix - Google Chrome
+s (13:35:42) in Missing Python Modules Fix - Google Chrome
+e (13:35:42) in Missing Python Modules Fix - Google Chrome
+d (13:35:42) in Missing Python Modules Fix - Google Chrome
+Key.space (13:35:42) in Missing Python Modules Fix - Google Chrome
+u (13:35:43) in Missing Python Modules Fix - Google Chrome
+p (13:35:43) in Missing Python Modules Fix - Google Chrome
+Key.space (13:35:43) in Missing Python Modules Fix - Google Chrome
+c (13:35:43) in Missing Python Modules Fix - Google Chrome
+a (13:35:43) in Missing Python Modules Fix - Google Chrome
+n (13:35:43) in Missing Python Modules Fix - Google Chrome
+Key.space (13:35:43) in Missing Python Modules Fix - Google Chrome
+u (13:35:43) in Missing Python Modules Fix - Google Chrome
+Key.space (13:35:43) in Missing Python Modules Fix - Google Chrome
+s (13:35:44) in Missing Python Modules Fix - Google Chrome
+e (13:35:44) in Missing Python Modules Fix - Google Chrome
+n (13:35:44) in Missing Python Modules Fix - Google Chrome
+d (13:35:44) in Missing Python Modules Fix - Google Chrome
+Key.space (13:35:44) in Missing Python Modules Fix - Google Chrome
+i (13:35:44) in Missing Python Modules Fix - Google Chrome
+t (13:35:44) in Missing Python Modules Fix - Google Chrome
+Key.space (13:35:44) in Missing Python Modules Fix - Google Chrome
+a (13:35:45) in Missing Python Modules Fix - Google Chrome
+g (13:35:45) in Missing Python Modules Fix - Google Chrome
+a (13:35:45) in Missing Python Modules Fix - Google Chrome
+i (13:35:45) in Missing Python Modules Fix - Google Chrome
+n (13:35:45) in Missing Python Modules Fix - Google Chrome
+Key.shift_r (13:35:45) in Missing Python Modules Fix - Google Chrome
+? (13:35:46) in Missing Python Modules Fix - Google Chrome
+Key.enter (13:35:46) in Missing Python Modules Fix - Google Chrome
+Key.enter (13:35:49) in Missing Python Modules Fix - Google Chrome
+c (13:36:02) in Missing Python Modules Fix - Google Chrome
+a (13:36:02) in Missing Python Modules Fix - Google Chrome
+n (13:36:02) in Missing Python Modules Fix - Google Chrome
+Key.space (13:36:02) in Missing Python Modules Fix - Google Chrome
+u (13:36:02) in Missing Python Modules Fix - Google Chrome
+Key.space (13:36:02) in Missing Python Modules Fix - Google Chrome
+s (13:36:02) in Missing Python Modules Fix - Google Chrome
+e (13:36:02) in Missing Python Modules Fix - Google Chrome
+n (13:36:03) in Missing Python Modules Fix - Google Chrome
+d (13:36:03) in Missing Python Modules Fix - Google Chrome
+Key.space (13:36:03) in Missing Python Modules Fix - Google Chrome
+a (13:36:03) in Missing Python Modules Fix - Google Chrome
+u (13:36:03) in Missing Python Modules Fix - Google Chrome
+t (13:36:04) in Missing Python Modules Fix - Google Chrome
+Key.ctrl_l (13:36:05) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:05) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:05) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:05) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:05) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:05) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:05) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:05) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:05) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:05) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:05) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:05) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:06) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:06) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:06) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:06) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:06) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:06) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:06) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:06) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:06) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:06) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:06) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:06) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:06) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:06) in Missing Python Modules Fix - Google Chrome
+Key.ctrl_l (13:36:06) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:06) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:06) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:06) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:07) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:07) in Missing Python Modules Fix - Google Chrome
+Key.backspace (13:36:07) in Missing Python Modules Fix - Google Chrome
+t (13:36:20) in Missing Python Modules Fix - Google Chrome
+r (13:36:20) in Missing Python Modules Fix - Google Chrome
+y (13:36:21) in Missing Python Modules Fix - Google Chrome
+Key.space (13:36:21) in Missing Python Modules Fix - Google Chrome
+a (13:36:21) in Missing Python Modules Fix - Google Chrome
+g (13:36:21) in Missing Python Modules Fix - Google Chrome
+a (13:36:21) in Missing Python Modules Fix - Google Chrome
+i (13:36:21) in Missing Python Modules Fix - Google Chrome
+n (13:36:22) in Missing Python Modules Fix - Google Chrome
+Key.space (13:36:22) in Missing Python Modules Fix - Google Chrome
+p (13:36:22) in Missing Python Modules Fix - Google Chrome
+l (13:36:22) in Missing Python Modules Fix - Google Chrome
+s (13:36:22) in Missing Python Modules Fix - Google Chrome
+Key.enter (13:36:23) in Missing Python Modules Fix - Google Chrome
+Key.alt_l (13:36:52) in Missing Python Modules Fix - Google Chrome
+Key.tab (13:36:52) in Missing Python Modules Fix - Google Chrome
+g (13:37:02) in test_ownership - Test here only - Visual Studio Code
+g (13:37:02) in ● test_ownership - Test here only - Visual Studio Code
+g (13:37:02) in ● test_ownership - Test here only - Visual Studio Code
+g (13:37:03) in ● test_ownership - Test here only - Visual Studio Code
+g (13:37:03) in ● test_ownership - Test here only - Visual Studio Code
+g (13:37:03) in ● test_ownership - Test here only - Visual Studio Code
+g (13:37:03) in ● test_ownership - Test here only - Visual Studio Code
+g (13:37:03) in ● test_ownership - Test here only - Visual Studio Code
+g (13:37:03) in ● test_ownership - Test here only - Visual Studio Code
+Key.ctrl_l (13:37:04) in ● test_ownership - Test here only - Visual Studio Code
+ (13:37:04) in ● test_ownership - Test here only - Visual Studio Code
+Key.ctrl_l (13:37:07) in test_ownership - Test here only - Visual Studio Code
+z (13:37:07) in test_ownership - Test here only - Visual Studio Code
+Key.backspace (13:37:10) in ● test_ownership - Test here only - Visual Studio Code
+Key.shift_r (13:37:10) in ● test_ownership - Test here only - Visual Studio Code
+? (13:37:10) in ● test_ownership - Test here only - Visual Studio Code
+Key.backspace (13:37:11) in ● test_ownership - Test here only - Visual Studio Code
+Key.alt_l (13:37:21) in ● test_ownership - Test here only - Visual Studio Code
+Key.tab (13:37:21) in ● test_ownership - Test here only - Visual Studio Code
+Key.alt_l (13:37:29) in Missing Python Modules Fix - Google Chrome
+Key.tab (13:37:29) in Missing Python Modules Fix - Google Chrome
+Key.ctrl_l (13:37:30) in ● test_ownership - Test here only - Visual Studio Code
+ (13:37:30) in ● test_ownership - Test here only - Visual Studio Code
+ (13:37:30) in ● test_ownership - Test here only - Visual Studio Code
+Key.ctrl_l (13:37:31) in ● test_ownership - Test here only - Visual Studio Code
+ (13:37:31) in ● test_ownership - Test here only - Visual Studio Code
+s (13:45:26) in test_ownership - Test here only - Visual Studio Code
+d (13:45:26) in test_ownership - Test here only - Visual Studio Code
+a (13:45:26) in test_ownership - Test here only - Visual Studio Code
+s (13:45:26) in test_ownership - Test here only - Visual Studio Code
+d (13:45:26) in test_ownership - Test here only - Visual Studio Code
+a (13:45:26) in test_ownership - Test here only - Visual Studio Code
+Key.ctrl_l (13:45:27) in test_ownership - Test here only - Visual Studio Code
+ (13:45:27) in test_ownership - Test here only - Visual Studio Code
+ (13:45:27) in test_ownership - Test here only - Visual Studio Code
